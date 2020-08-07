@@ -1,4 +1,9 @@
-### Hi there 👋
+# Greetings! 👋 Stay awhile and listen...
+
+I am Luis Cruz, currently a senior engineer at [Promoboxx](https://promoboxx.com). Day to day, I am working on building out microservices in [Go](https://golang.org/) and [PostegreSQL](https://www.postgresql.org/). Prior to Promoboxx, I worked extensively professionally and personally with [PHP](https://php.net/) since 2000. Overall, I have been programming long enough to see my first computer behind glass at the Smithsonian, though not quite long enough to have used punch cards.
+
+## Where to find me / What am I up to
+I have a [blog](https://www.lupinencyclopedia.com/blog/) I still write in now and again. These days, I find myself more on [Reddit](https://www.reddit.com/user/sprak3000) answering questions and generally trying to help share my experience and knowledge with the next generation. Looking for help, advice, etc.? Reach out on [Reddit](https://www.reddit.com/user/sprak3000) or on [Twitter](https://twitter.com/sprak).
 
 <!--
 **sprak3000/sprak3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Technologies & Tools
+## 🔧 Technologies & Tools
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=plastic&logo=php&logoColor=white&color=777BB4)
 ![Composer](https://img.shields.io/badge/Tools-Composer-informational?style=plastic&logo=composer&logoColor=white&color=885630)
 ![CakePHP](https://img.shields.io/badge/Tools-CakePHP-informational?style=plastic&logo=cakephp&logoColor=white&color=D33C43)
@@ -53,3 +58,25 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/Tools-AWS-informational?style=plastic&logo=amazon%20aws&logoColor=white&color=232F3E)
 ![Vagrant](https://img.shields.io/badge/Tools-Vagrant-informational?style=plastic&logo=vagrant&logoColor=white&color=1563FF)
 ![Ansible](https://img.shields.io/badge/Tools-Ansible-informational?style=plastic&logo=ansible&logoColor=white&color=EE0000)
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/sprak3000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sprak3000&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
+</a>
+<br />
+<a href="https://github.com/sprak3000/AnimeNewsNetworkDataAPI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sprak3000&repo=AnimeNewsNetworkDataAPI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/sprak3000/LupinIIIEncyclopedia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sprak3000&repo=LupinIIIEncyclopedia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+<br />
+<a href="https://github.com/sprak3000/drupal-packagist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sprak3000&repo=drupal-packagist&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/sprak3000/drupal-composed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sprak3000&repo=drupal-composed&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
