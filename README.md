@@ -60,22 +60,23 @@ Here are some ideas to get you started:
 ![Ansible](https://img.shields.io/badge/Tools-Ansible-informational?style=plastic&logo=ansible&logoColor=white&color=EE0000)
 
 ## &#x1f4c8; GitHub Stats
+<p>
 <a href="https://github.com/sprak3000">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sprak3000&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
 </a>
-<br />
+</p>
+
+<p>
+<a href="https://github.com/sprak3000/xbar-whats-up">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sprak3000&repo=xbar-whats-up&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+</p>
+
+<a href="https://github.com/sprak3000/LupinIIIEncyclopedia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sprak3000&repo=LupinIIIEncyclopedia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>&nbsp;
+
 <a href="https://github.com/sprak3000/AnimeNewsNetworkDataAPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sprak3000&repo=AnimeNewsNetworkDataAPI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/sprak3000/LupinIIIEncyclopedia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sprak3000&repo=LupinIIIEncyclopedia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-<br />
-<a href="https://github.com/sprak3000/drupal-packagist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sprak3000&repo=drupal-packagist&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/sprak3000/drupal-composed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sprak3000&repo=drupal-composed&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
