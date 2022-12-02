@@ -1,9 +1,9 @@
 # Greetings! 👋 Stay awhile and listen...
 
-I am Luis Cruz, currently a senior engineer at [HqO](https://www.hqo.com/). Day to day, I am working on building out microservices in [Go](https://golang.org/) and [PostegreSQL](https://www.postgresql.org/). Prior to HqO, I worked extensively professionally and personally with [PHP](https://php.net/) since 2000. Overall, I have been programming long enough to see my first computer behind glass at the Smithsonian, though not quite long enough to have used punch cards.
+I am Luis Cruz, previously an engineering manager at HqO. I managed and mentored the team on building out identity focused microservices in [Go](https://golang.org/) and [PostegreSQL](https://www.postgresql.org/). Prior to HqO, I worked extensively professionally and personally with [PHP](https://php.net/) since 2000. Overall, I have been programming long enough to see my first computer behind glass at the Smithsonian, though not quite long enough to have used punch cards.
 
 ## Where to find me / What am I up to
-I have a [blog](https://www.lupinencyclopedia.com/blog/) I still write in now and again. These days, I find myself more on [Reddit](https://www.reddit.com/user/sprak3000) answering questions and generally trying to help share my experience and knowledge with the next generation. Looking for help, advice, etc.? Reach out on [Reddit](https://www.reddit.com/user/sprak3000) or on [Twitter](https://twitter.com/sprak).
+I have a [blog](https://sprak3000.github.io/) I still write in now and again. These days, I find myself more on [Reddit](https://www.reddit.com/user/sprak3000) answering questions and generally trying to help share my experience and knowledge with the next generation. Looking for help, advice, etc.? Reach out on [Reddit](https://www.reddit.com/user/sprak3000) or on [Twitter](https://twitter.com/sprak).
 
 <!--
 **sprak3000/sprak3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
